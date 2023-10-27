@@ -1444,7 +1444,57 @@ Config.Items = {
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	}
+	},
 
+
+	
+	----------------
+	------Pearl-----
+	----------------
+
+	
+
+		["pr_coca_cola"] = {
+		type = "drink",
+		prop = "p_ing_coffeecup_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+		["pr_diet_coke"] = {
+		type = "drink",
+		prop = "p_ing_coffeecup_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+		["pr_dr_pepper"] = {
+		type = "drink",
+		prop = "p_ing_coffeecup_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+		["pr_fanta_orange"] = {
+		type = "drink",
+		prop = "p_ing_coffeecup_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+		["pr_fruit_punch"] = {
+		type = "drink",
+		prop = "p_ing_coffeecup_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+		["pr-softdrink"] = {
+		type = "drink",
+		prop = "p_ing_coffeecup_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	}
 	
 }
