@@ -1495,6 +1495,106 @@ Config.Items = {
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	}
+	},
+
+
+	
+	----------------
+	-----Coffee-----
+	----------------
+	
+		["chickenbreast"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["cheesecake"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["chips"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["chocolate"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["popdonut"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+
+
+		["highnoon"] = {
+			type = "drink",
+			prop = "p_ing_coffeecup_01",
+			status = 100000,
+			remove = true,
+			anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+		},
+		["bigfruit"] = {
+			type = "drink",
+			prop = "p_ing_coffeecup_01",
+			status = 100000,
+			remove = true,
+			anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+		},
+		["bratte"] = {
+			type = "drink",
+			prop = "p_ing_coffeecup_01",
+			status = 100000,
+			remove = true,
+			anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+		},
+		["caffeagra"] = {
+			type = "drink",
+			prop = "p_ing_coffeecup_01",
+			status = 100000,
+			remove = true,
+			anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+		},
+		["ecoffee"] = {
+			type = "drink",
+			prop = "p_ing_coffeecup_01",
+			status = 100000,
+			remove = true,
+			anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+		},
+		["flusher"] = {
+			type = "drink",
+			prop = "p_ing_coffeecup_01",
+			status = 100000,
+			remove = true,
+			anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+		},
+		["gunkaccino"] = {
+			type = "drink",
+			prop = "p_ing_coffeecup_01",
+			status = 100000,
+			remove = true,
+			anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+		},
+		["speedball"] = {
+			type = "drink",
+			prop = "p_ing_coffeecup_01",
+			status = 100000,
+			remove = true,
+			anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+		}
 	
 }
