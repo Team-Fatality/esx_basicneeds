@@ -334,7 +334,7 @@ Config.Items = {
 
 
 	----------------
-	--  Dominos   --
+	--  Pizza Shop--
 	----------------
 
 
@@ -494,42 +494,41 @@ Config.Items = {
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["d_coca_cola"] = {
+	["cola_drink"] = {
 		type = "drink",
 		prop = "prop_food_juice01",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["d_dr_pepper"] = {
+	["mix_fruit"] = {
 		type = "drink",
 		prop = "prop_food_juice01",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["d_fanta_orange"] = {
+	["softdrink"] = {
 		type = "drink",
 		prop = "prop_food_juice01",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["d_fruit_punch"] = {
+	["sprunk"] = {
 		type = "drink",
 		prop = "prop_food_juice01",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["d_sprite"] = {
+	["sprunk_light"] = {
 		type = "drink",
 		prop = "prop_food_juice01",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-
 
 
 
