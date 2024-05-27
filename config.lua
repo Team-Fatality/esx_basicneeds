@@ -920,7 +920,7 @@ Config.Items = {
 
 	
 	----------------
-	--  ChickFila --
+	--Chicken Shop--
 	----------------
 
 
