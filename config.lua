@@ -536,7 +536,7 @@ Config.Items = {
 
 
 	----------------
-	--  McDoland  --
+	---Mac-Burger---
 	----------------
 
 
@@ -550,28 +550,7 @@ Config.Items = {
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["chicken_mcnuggets"] = {
-		type = "food",
-		prop = "prop_cs_burger_01",
-		status = 200000,
-		remove = true,
-		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
-	},
-	["crispy_chicken_sandwich"] = {
-		type = "food",
-		prop = "prop_cs_burger_01",
-		status = 200000,
-		remove = true,
-		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
-	},
 	["double_quarter_pounder"] = {
-		type = "food",
-		prop = "prop_cs_burger_01",
-		status = 200000,
-		remove = true,
-		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
-	},
-	["egg_mcmuffin"] = {
 		type = "food",
 		prop = "prop_cs_burger_01",
 		status = 200000,
@@ -592,14 +571,7 @@ Config.Items = {
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["sausage_biscuit"] = {
-		type = "food",
-		prop = "prop_cs_burger_01",
-		status = 200000,
-		remove = true,
-		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
-	},
-	["sausage_burrito"] = {
+	["sloppy_joe"] = {
 		type = "food",
 		prop = "prop_cs_burger_01",
 		status = 200000,
@@ -620,184 +592,133 @@ Config.Items = {
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["big_mac_combo"] = {
+	["bltsandwich"] = {
 		type = "food",
 		prop = "prop_cs_burger_01",
 		status = 200000,
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["cheeseburger_combo_meal"] = {
+	["burger-creampie"] = {
 		type = "food",
 		prop = "prop_cs_burger_01",
 		status = 200000,
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["deluxe_crispy_sandwich_combo"] = {
+	["chicken_mcnuggets"] = {
 		type = "food",
 		prop = "prop_cs_burger_01",
 		status = 200000,
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["double_quarter_combo"] = {
+	["crispy_chicken_sandwich"] = {
 		type = "food",
 		prop = "prop_cs_burger_01",
 		status = 200000,
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["egg_cheese_biscuit"] = {
+	["egg_mcmuffin"] = {
 		type = "food",
 		prop = "prop_cs_burger_01",
 		status = 200000,
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["mc_combo_chicken"] = {
+	["sausage_biscuit"] = {
 		type = "food",
 		prop = "prop_cs_burger_01",
 		status = 200000,
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["mc_nuggets_happy_meal"] = {
+	["sausage_burrito"] = {
 		type = "food",
 		prop = "prop_cs_burger_01",
 		status = 200000,
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["spicy_chicken_sandwich_combo"] = {
+	["tosti"] = {
 		type = "food",
 		prop = "prop_cs_burger_01",
 		status = 200000,
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["world_famous_fries"] = {
+	["uwu_eggroll"] = {
 		type = "food",
 		prop = "prop_cs_burger_01",
 		status = 200000,
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+	},
+
+
+
+	
+	
+	["cola_drink"] = {
+		type = "drink",
+		prop = "prop_energy_drink",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["honey_hazelnut_oat_latte"] = {
+		type = "drink",
+		prop = "prop_energy_drink",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
 	["hot_fudge_sundae"] = {
 		type = "drink",
-		prop = "prop_drink_redwine",
+		prop = "prop_energy_drink",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["mc_cappuccino"] = {
+	["hulkcocktail"] = {
 		type = "drink",
-		prop = "prop_drink_redwine",
+		prop = "prop_energy_drink",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["mc_diet_coke"] = {
+	["iced_caffe_latte"] = {
 		type = "drink",
-		prop = "prop_drink_redwine",
+		prop = "prop_energy_drink",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["mc_dr_pepper"] = {
+	["java_chip_frappuccino"] = {
 		type = "drink",
-		prop = "prop_drink_redwine",
+		prop = "prop_energy_drink",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["mc_fanta_orange"] = {
+	["mix_fruit"] = {
 		type = "drink",
-		prop = "prop_drink_redwine",
+		prop = "prop_energy_drink",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["mc_flurry_candies"] = {
+	["softdrink"] = {
 		type = "drink",
-		prop = "prop_drink_redwine",
+		prop = "prop_energy_drink",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["mc_flurry_cookies"] = {
+	["sprunk"] = {
 		type = "drink",
-		prop = "prop_drink_redwine",
-		status = 100000,
-		remove = true,
-		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	},
-	["mc_fruit_punch"] = {
-		type = "drink",
-		prop = "prop_drink_redwine",
-		status = 100000,
-		remove = true,
-		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	},
-	["mc_hot_chocolate"] = {
-		type = "drink",
-		prop = "prop_drink_redwine",
-		status = 100000,
-		remove = true,
-		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	},
-	["mc_iced_coffee"] = {
-		type = "drink",
-		prop = "prop_drink_redwine",
-		status = 100000,
-		remove = true,
-		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	},
-	["mc_iced_tea"] = {
-		type = "drink",
-		prop = "prop_drink_redwine",
-		status = 100000,
-		remove = true,
-		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	},
-	["mc_sprite"] = {
-		type = "drink",
-		prop = "prop_drink_redwine",
-		status = 100000,
-		remove = true,
-		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	},
-	["mc_strawberry_shake"] = {
-		type = "drink",
-		prop = "prop_drink_redwine",
-		status = 100000,
-		remove = true,
-		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	},
-	["mc_vanilla_shake"] = {
-		type = "drink",
-		prop = "prop_drink_redwine",
-		status = 100000,
-		remove = true,
-		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	},
-	["orange_juice"] = {
-		type = "drink",
-		prop = "prop_drink_redwine",
-		status = 100000,
-		remove = true,
-		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	},
-	["strawberry_watermelon_slushie"] = {
-		type = "drink",
-		prop = "prop_drink_redwine",
-		status = 100000,
-		remove = true,
-		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	},
-	["tropical_mango_slushie"] = {
-		type = "drink",
-		prop = "prop_drink_redwine",
+		prop = "prop_energy_drink",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
