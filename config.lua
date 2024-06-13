@@ -913,7 +913,7 @@ Config.Items = {
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
-	}
+	},
 
 
 
