@@ -886,36 +886,90 @@ Config.Items = {
 		remove = true,
 		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 	},
-	["t_diet_pepsi"] = {
+	["juice"] = {
 		type = "drink",
 		prop = "v_res_tt_can02",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["t_seven_up"] = {
+	["mai_tai"] = {
 		type = "drink",
 		prop = "v_res_tt_can02",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["t_tango_apple"] = {
+	["mojito"] = {
 		type = "drink",
 		prop = "v_res_tt_can02",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-	["t_tango_orange"] = {
+	["opmcocktail"] = {
 		type = "drink",
 		prop = "v_res_tt_can02",
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	},
-
-
+	["strawberry_acai_refresha"] = {
+		type = "drink",
+		prop = "v_res_tt_can02",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["strawberry_juice"] = {
+		type = "drink",
+		prop = "v_res_tt_can02",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["mcdbluefrozen"] = {
+		type = "drink",
+		prop = "v_res_tt_can02",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["mcdredfrozen"] = {
+		type = "drink",
+		prop = "v_res_tt_can02",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["orang_tang"] = {
+		type = "drink",
+		prop = "v_res_tt_can02",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["pepper"] = {
+		type = "drink",
+		prop = "v_res_tt_can02",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["sprite"] = {
+		type = "drink",
+		prop = "v_res_tt_can02",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["sprunk"] = {
+		type = "drink",
+		prop = "v_res_tt_can02",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
 
 
 	
