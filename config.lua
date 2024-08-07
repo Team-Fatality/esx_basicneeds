@@ -3232,11 +3232,78 @@ Config.Items = {
 			status = 100000,
 			remove = true,
 			anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+		},
+
+
+		["egg_pesto_mozzarella"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["chicken_maple_butter"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["bacon_sausage_egg"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["impossible_breakfast"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["bacon_gouda_egg"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["smoked_bacon_cheddar"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["turkey_bacon_cheddar"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["sausage_cheddar"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+		},
+		["spinach_feta"] = {
+			type = "food",
+			prop = "prop_cs_burger_01",
+			status = 200000,
+			remove = true,
+			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
 		}
+
+		
 
 	
 	
-}
+	}
 
 
 
