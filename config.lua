@@ -1677,10 +1677,168 @@ Config.Items = {
 			status = 200000,
 			remove = true,
 			anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
-		}
+		},
+
+
+
+
+		
+	----------------
+	-----Teqila-----
+	----------------
 
 		
 
+	["banana_nut"] = {
+		type = "food",
+		prop = "ng_proc_food_aple2a",
+		status = 200000,
+		remove = true,
+		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+	},
+	["chocolatecup"] = {
+		type = "food",
+		prop = "ng_proc_food_aple2a",
+		status = 200000,
+		remove = true,
+		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+	},
+	["strawberrycup"] = {
+		type = "food",
+		prop = "ng_proc_food_aple2a",
+		status = 200000,
+		remove = true,
+		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+	},
+	["vanillacupcakes"] = {
+		type = "food",
+		prop = "ng_proc_food_aple2a",
+		status = 200000,
+		remove = true,
+		anim = {dict = 'mp_player_inteat@burger', name = 'mp_player_int_eat_burger_fp', settings = {8.0, -8, -1, 49, 0, 0, 0, 0}}
+	},
+	
+	
+	
+	["banana_juice"] = {
+		type = "drink",
+		prop = "prop_wheat_grass_glass",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["kiwi_juice"] = {
+		type = "drink",
+		prop = "prop_wheat_grass_glass",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["orange_juice"] = {
+		type = "drink",
+		prop = "prop_wheat_grass_glass",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["strawberry_juice"] = {
+		type = "drink",
+		prop = "prop_wheat_grass_glass",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["berry_hydrating"] = {
+		type = "drink",
+		prop = "prop_wheat_grass_glass",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["cocktail"] = {
+		type = "drink",
+		prop = "prop_cocktail",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["daquiri"] = {
+		type = "drink",
+		prop = "prop_daquiri",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["green_dream"] = {
+		type = "drink",
+		prop = "prop_cocktail",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["island_breeze"] = {
+		type = "drink",
+		prop = "prop_cocktail",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["island_fantasy"] = {
+		type = "drink",
+		prop = "prop_cocktail",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["just_peachy"] = {
+		type = "drink",
+		prop = "prop_cocktail",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["kamikaze"] = {
+		type = "drink",
+		prop = "prop_cocktail",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["redhot_daquiri"] = {
+		type = "drink",
+		prop = "prop_cocktail",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["tequila"] = {
+		type = "drink",
+		prop = "prop_tequila_bottle",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	
+	["watermelon_dream"] = {
+		type = "drink",
+		prop = "prop_cocktail",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	}
 	
 	
 }
