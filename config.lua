@@ -1838,6 +1838,55 @@ Config.Items = {
 		status = 100000,
 		remove = true,
 		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+
+
+
+
+
+	
+	
+	["ambeer"] = {
+		type = "drink",
+		prop = "p_cs_bottle_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["dusche"] = {
+		type = "drink",
+		prop = "p_cs_bottle_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["logger"] = {
+		type = "drink",
+		prop = "p_cs_bottle_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["pisswasser"] = {
+		type = "drink",
+		prop = "p_cs_bottle_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["pisswasser2"] = {
+		type = "drink",
+		prop = "p_cs_bottle_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
+	},
+	["pisswasser3"] = {
+		type = "drink",
+		prop = "p_cs_bottle_01",
+		status = 100000,
+		remove = true,
+		anim = {dict = 'mp_player_intdrink', name = 'loop_bottle', settings = {1.0, -1.0, 2000, 0, 1, true, true, true}}
 	}
 	
 	
